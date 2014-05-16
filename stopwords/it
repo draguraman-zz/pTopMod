@@ -1,0 +1,405 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+<title>Italian</title>
+
+
+<link rel="canonical" href="http://www.ranks.nl/stopwords/italian" />
+
+<link rel="icon" type="image/vnd.microsoft.icon" href="/images/favicon.ico" />
+
+
+
+
+
+<script type="text/javascript" src="/js/jquery-1.10.2.min.js"></script>
+
+    <!-- Bootstrap -->
+    <link href="/css/bootstrap.min.css" rel="stylesheet">
+    <link href="/css/bootstrap-theme.css" rel="stylesheet">
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+      <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
+    <![endif]-->
+    
+    <script src="/js/bootstrap.min.js"></script>
+
+<script type="text/javascript" src="/js/jquery.tablesorter.min.js"></script>
+
+
+
+
+<script src="/js/lightbox-2.6.min.js"></script>
+<link href="/css/lightbox.css" rel="stylesheet">
+
+<link rel="stylesheet" href="/fontawesome/css/font-awesome.min.css">
+<link href="/css/4.0/style.css" rel="stylesheet">
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /><meta name="generator" content="WebGUI 7.10.28" /><meta http-equiv="Content-Script-Type" content="text/javascript" /><meta http-equiv="Content-Style-Type" content="text/css" /><script type="text/javascript">function getWebguiProperty (propName) {var props = new Array();props["extrasURL"] = "/extras/";props["pageURL"] = "/stopwords/italian";props["firstDayOfWeek"] = "0";return props[propName];}</script><link href="/layout.css" rel="stylesheet" type="text/css" /><!--page layout--><style type="text/css">
+ul.bulletList li, ul.bulletList ul {
+	margin-left:7px;
+	padding-left:0px;
+	font-size:9px;	
+}
+
+.bulletList .level0 {
+	font-size:13px;
+}
+
+.bulletList .level1 {
+	font-size:11px;
+}
+</style>
+
+<meta http-equiv="Pragma" content="no-cache" /><meta http-equiv="Cache-Control" content="no-cache, must-revalidate, max-age=0, private" /><meta http-equiv="Expires" content="0" /> 
+
+
+
+<script>
+$(document).ready(function(){
+
+
+		$("table").tablesorter(); 
+   
+
+
+boxes = $('.equalheight');
+maxHeight = Math.max.apply(
+Math, boxes.map(function() {
+return $(this).height();
+}).get());
+boxes.height(maxHeight);
+
+
+
+});
+
+
+
+</script>
+
+
+</head>
+<body>
+
+
+<div id="wrap">
+
+<!-- Fixed navbar -->
+<div id="nav090bcf1c0aefc5dccbeb7bdcab60c70b" class="nav bulletedList">
+
+<a name="idCQvPHArvxdzL63vcq2DHCw" id="idCQvPHArvxdzL63vcq2DHCw"></a>
+
+
+
+
+
+
+
+
+ <!-- Fixed navbar -->
+      <div class="navbar navbar-default navbar-fixed-top" role="navigation">
+
+
+
+        <div class="container">
+          <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+              <span class="sr-only">Toggle navigation</span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+            </button>
+
+<a class="navbar-brand logo" href="/">RANKS NL <i class="fa fa-chevron-right small_font"></i><i class="fa fa-chevron-right small_font"></i></a> 
+
+          </div>
+
+
+
+          <div class="collapse navbar-collapse">
+            <ul class="nav navbar-nav">
+            
+              <li><a href="/demo">Demo</a></li>
+              <li><a href="/plans">Plans & Pricing</a></li>
+            
+                     <li class="dropdown">                
+		<a href="#" class="dropdown-toggle" data-toggle="dropdown">More <b class="caret"></b></a>
+		<ul class="dropdown-menu">
+	
+  <li class="dropdown-header">Resources</li>
+    		<li><a href="/docs">Tools Documentation</a></li>
+		      <li><a href="/abc">Ranks ABC</a></li>
+		      <li><a href="/stopwords">Stopword lists</a></li>
+		  
+		   
+	<li class="divider"></li>
+  <li class="dropdown-header">Info</li>
+
+		      <li><a href="/about">About Ranks NL</a></li>
+		      <li><a href="/contact">Contact</a></li>	
+<li><a href="/info/privacy-policy">Privacy Policy</a></li>
+<li><a href="/info/sales/refund-policy">Refund Policy</a></li>
+<li><a href="/info/terms">Terms of Service</a></li>
+<li><a href="/info/sales">Sales Questions and Answers</a></li>
+ <li><a href="/quotes">What others say about us</a></li>
+
+			
+                </ul>
+                </li>     
+
+            </ul>
+
+
+<div class="navbar-text navbar-right">
+
+<a href="/sign-in"><i class="fa fa-user grey"></i>&nbsp; Sign in</a>
+
+</div>
+
+
+          </div><!--/.nav-collapse -->
+        </div>
+      </div>
+
+
+
+
+
+</div>
+
+
+
+
+
+
+<!-- Begin page content -->
+<div class="container">
+
+<div id="layout4398af9fef0bb86f0db7944dc2b30b83" class="layout default">
+
+<a name="idQ5ivn_8LuG8Nt5RNwrMLgw" id="idQ5ivn_8LuG8Nt5RNwrMLgw"></a>
+
+
+
+
+
+
+
+<!-- toprows -->
+<div class="row">
+		
+	<div class="col-xs-4">
+	
+        <h1><small>Italian</small></h1>
+        
+        
+	</div>
+			
+	<div class="col-xs-8">
+	<div class="pull-right" id="socialbuttons" data-url="http://www.ranks.nl/stopwords/italian" data-text="" data-title="Share this page">&nbsp;</div>
+	</div>
+				
+</div>
+
+
+<div class="row">
+<div class="col-xs-12">
+<div id="navbaef89499a8b28119bfd9ca560f55335" class="nav crumbTrail">
+
+<a name="iduu_JSZqLKBGb-ZylYPVTNQ" id="iduu_JSZqLKBGb-ZylYPVTNQ"></a>
+
+
+
+
+
+
+
+
+	<ol class="breadcrumb">
+	
+		
+
+<li><a href="/home">Home</a></li>
+
+
+
+	
+		
+
+<li><a href="/resources">Resources</a></li>
+
+
+
+	
+		
+
+<li><a href="/stopwords">Stopwords</a></li>
+
+
+
+	
+		
+
+<li class="active">Italian</li>
+
+
+
+	
+	</ol>
+
+
+<!--/navbaef89499a8b28119bfd9ca560f55335 /nav crumbTrail-->
+</div>
+ 					
+</div>
+</div>
+
+<!-- toprows -->
+
+<!-- begin position 1 -->
+<div class="wg-content-position">
+
+    
+    
+    
+        
+    
+        
+        <div id="article918bf57c15a0abd696c28f9ab30c78e7" class="panel panel-default">
+
+<a name="idkYv1fBWgq9aWwo_aswx45w" id="idkYv1fBWgq9aWwo_aswx45w"></a>
+
+
+
+
+<div class="panel-heading">
+	<h3 class="panel-title">Italian Stopwords</h3>
+</div>
+
+
+
+
+
+	<div class="panel-body">
+		<table style="width: 100%;" border="0" cellpadding="5" cellspacing="5">
+<tbody>
+<tr>
+<td style="width: 33%;" valign="top">a<br /> adesso<br /> ai<br /> al<br /> alla<br /> allo<br /> allora<br /> altre<br /> altri<br /> altro<br /> anche<br /> ancora<br /> avere<br /> aveva<br /> avevano<br /> ben<br /> buono<br /> che<br /> chi<br /> cinque<br /> comprare<br /> con<br /> consecutivi<br /> consecutivo<br /> cosa<br /> cui<br /> da<br /> del<br /> della<br /> dello<br /> dentro<br /> deve<br /> devo<br /> di<br /> doppio<br /> due<br /> e<br /> ecco<br /> fare<br /> fine<br /> fino<br /> fra<br /> gente<br /> giu<br /> ha<br /> hai<br /> hanno<br /> ho<br /> il<br /> indietro</td>
+<td valign="top">invece<br /> io<br /> la<br /> lavoro<br /> le<br /> lei<br /> lo<br /> loro<br /> lui<br /> lungo<br /> ma<br /> me<br /> meglio<br /> molta<br /> molti<br /> molto<br /> nei<br /> nella<br /> no<br /> noi<br /> nome<br /> nostro<br /> nove<br /> nuovi<br /> nuovo<br /> o<br /> oltre<br /> ora<br /> otto<br /> peggio<br /> pero<br /> persone<br /> piu<br /> poco<br /> primo<br /> promesso<br /> qua<br /> quarto<br /> quasi<br /> quattro<br /> quello<br /> questo<br /> qui<br /> quindi<br /> quinto<br /> rispetto<br /> sara<br /> secondo<br /> sei<br /> sembra</td>
+<td style="width: 33%;" valign="top">sembrava<br /> senza<br /> sette<br /> sia<br /> siamo<br /> siete<br /> solo<br /> sono<br /> sopra<br /> soprattutto<br /> sotto<br /> stati<br /> stato<br /> stesso<br /> su<br /> subito<br /> sul<br /> sulla<br /> tanto<br /> te<br /> tempo<br /> terzo<br /> tra<br /> tre<br /> triplo<br /> ultimo<br /> un<br /> una<br /> uno<br /> va<br /> vai<br /> voi<br /> volte<br /> vostro</td>
+</tr>
+</tbody>
+</table>
+	
+	</div>
+
+
+
+
+
+
+
+<div class="wg-clear"></div>
+
+<!--/article918bf57c15a0abd696c28f9ab30c78e7 /article default-->
+</div>
+
+    
+        
+    
+    
+    
+
+<!-- end position 1 -->  
+</div>
+
+<div class="wg-clear"></div>
+
+  
+
+<!--/layout4398af9fef0bb86f0db7944dc2b30b83 /layout default-->
+</div>
+
+
+</div>
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-49205764-1']);
+  _gaq.push(['_setAllowLinker', true]);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 968481985;
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/968481985/?value=0&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
+
+
+
+</div> <!-- end wrap -->
+
+<!-- footer -->
+
+
+    <div id="footer">
+      <div class="container">
+        <p class="text-muted">	<a href="javascript:history.go(-1)"><i class="fa fa-reply green" alt="Return to previous screen" title="Return to previous screen"></i> return to previous screen</a> | 
+	<a href="/info/privacy-policy">privacy policy</a> | 
+	<a href="/info/terms">terms of service</a> | 
+	&copy; ranks.nl &nbsp;
+	
+	</p>
+      </div>
+    </div>		  
+ 
+
+	<script src="/js/sharre/jquery.sharrre.min.js" type="text/javascript"></script>
+<script type="text/javascript">
+	
+			$('#socialbuttons').sharrre({
+			share: {
+			googlePlus: true,
+			facebook: true,
+			twitter: true
+			},
+			enableTracking: true,
+			enableHover: false,
+			enableCounter: true,
+			buttons: {     
+			googlePlus: {size: 'medium', annotation:'bubble'},     
+			facebook: {layout: 'button_count'},     
+			twitter: {count: 'horizontal'}   },
+			template: '<div class="box"><a class="count" href="#">{total}</a> <a class="share" href="#"> <div class="sharrre_social_icons"></div>' + $('#socialbuttons').data('title') + '</a></div>',		
+			click: function (a)   { if($('.buttons').length === 0){$('.share').html('');a.loadButtons(); }},
+			urlCurl: '/cgi-bin/sharre.cgi', 
+
+		});
+	
+</script>
+
+</body>
+</html>

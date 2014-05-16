@@ -1,0 +1,405 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+<title>Russian</title>
+
+
+<link rel="canonical" href="http://www.ranks.nl/stopwords/russian" />
+
+<link rel="icon" type="image/vnd.microsoft.icon" href="/images/favicon.ico" />
+
+
+
+
+
+<script type="text/javascript" src="/js/jquery-1.10.2.min.js"></script>
+
+    <!-- Bootstrap -->
+    <link href="/css/bootstrap.min.css" rel="stylesheet">
+    <link href="/css/bootstrap-theme.css" rel="stylesheet">
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+      <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
+    <![endif]-->
+    
+    <script src="/js/bootstrap.min.js"></script>
+
+<script type="text/javascript" src="/js/jquery.tablesorter.min.js"></script>
+
+
+
+
+<script src="/js/lightbox-2.6.min.js"></script>
+<link href="/css/lightbox.css" rel="stylesheet">
+
+<link rel="stylesheet" href="/fontawesome/css/font-awesome.min.css">
+<link href="/css/4.0/style.css" rel="stylesheet">
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /><meta name="generator" content="WebGUI 7.10.28" /><meta http-equiv="Content-Script-Type" content="text/javascript" /><meta http-equiv="Content-Style-Type" content="text/css" /><script type="text/javascript">function getWebguiProperty (propName) {var props = new Array();props["extrasURL"] = "/extras/";props["pageURL"] = "/stopwords/russian";props["firstDayOfWeek"] = "0";return props[propName];}</script><link href="/layout.css" rel="stylesheet" type="text/css" /><!--page layout--><style type="text/css">
+ul.bulletList li, ul.bulletList ul {
+	margin-left:7px;
+	padding-left:0px;
+	font-size:9px;	
+}
+
+.bulletList .level0 {
+	font-size:13px;
+}
+
+.bulletList .level1 {
+	font-size:11px;
+}
+</style>
+
+<meta http-equiv="Pragma" content="no-cache" /><meta http-equiv="Cache-Control" content="no-cache, must-revalidate, max-age=0, private" /><meta http-equiv="Expires" content="0" /> 
+
+
+
+<script>
+$(document).ready(function(){
+
+
+		$("table").tablesorter(); 
+   
+
+
+boxes = $('.equalheight');
+maxHeight = Math.max.apply(
+Math, boxes.map(function() {
+return $(this).height();
+}).get());
+boxes.height(maxHeight);
+
+
+
+});
+
+
+
+</script>
+
+
+</head>
+<body>
+
+
+<div id="wrap">
+
+<!-- Fixed navbar -->
+<div id="nav090bcf1c0aefc5dccbeb7bdcab60c70b" class="nav bulletedList">
+
+<a name="idCQvPHArvxdzL63vcq2DHCw" id="idCQvPHArvxdzL63vcq2DHCw"></a>
+
+
+
+
+
+
+
+
+ <!-- Fixed navbar -->
+      <div class="navbar navbar-default navbar-fixed-top" role="navigation">
+
+
+
+        <div class="container">
+          <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+              <span class="sr-only">Toggle navigation</span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+            </button>
+
+<a class="navbar-brand logo" href="/">RANKS NL <i class="fa fa-chevron-right small_font"></i><i class="fa fa-chevron-right small_font"></i></a> 
+
+          </div>
+
+
+
+          <div class="collapse navbar-collapse">
+            <ul class="nav navbar-nav">
+            
+              <li><a href="/demo">Demo</a></li>
+              <li><a href="/plans">Plans & Pricing</a></li>
+            
+                     <li class="dropdown">                
+		<a href="#" class="dropdown-toggle" data-toggle="dropdown">More <b class="caret"></b></a>
+		<ul class="dropdown-menu">
+	
+  <li class="dropdown-header">Resources</li>
+    		<li><a href="/docs">Tools Documentation</a></li>
+		      <li><a href="/abc">Ranks ABC</a></li>
+		      <li><a href="/stopwords">Stopword lists</a></li>
+		  
+		   
+	<li class="divider"></li>
+  <li class="dropdown-header">Info</li>
+
+		      <li><a href="/about">About Ranks NL</a></li>
+		      <li><a href="/contact">Contact</a></li>	
+<li><a href="/info/privacy-policy">Privacy Policy</a></li>
+<li><a href="/info/sales/refund-policy">Refund Policy</a></li>
+<li><a href="/info/terms">Terms of Service</a></li>
+<li><a href="/info/sales">Sales Questions and Answers</a></li>
+ <li><a href="/quotes">What others say about us</a></li>
+
+			
+                </ul>
+                </li>     
+
+            </ul>
+
+
+<div class="navbar-text navbar-right">
+
+<a href="/sign-in"><i class="fa fa-user grey"></i>&nbsp; Sign in</a>
+
+</div>
+
+
+          </div><!--/.nav-collapse -->
+        </div>
+      </div>
+
+
+
+
+
+</div>
+
+
+
+
+
+
+<!-- Begin page content -->
+<div class="container">
+
+<div id="layout27e32853e22012f47a2f812779a297c1" class="layout default">
+
+<a name="idJ_MoU_IgEvR6L4EneaKXwQ" id="idJ_MoU_IgEvR6L4EneaKXwQ"></a>
+
+
+
+
+
+
+
+<!-- toprows -->
+<div class="row">
+		
+	<div class="col-xs-4">
+	
+        <h1><small>Russian</small></h1>
+        
+        
+	</div>
+			
+	<div class="col-xs-8">
+	<div class="pull-right" id="socialbuttons" data-url="http://www.ranks.nl/stopwords/russian" data-text="" data-title="Share this page">&nbsp;</div>
+	</div>
+				
+</div>
+
+
+<div class="row">
+<div class="col-xs-12">
+<div id="navbaef89499a8b28119bfd9ca560f55335" class="nav crumbTrail">
+
+<a name="iduu_JSZqLKBGb-ZylYPVTNQ" id="iduu_JSZqLKBGb-ZylYPVTNQ"></a>
+
+
+
+
+
+
+
+
+	<ol class="breadcrumb">
+	
+		
+
+<li><a href="/home">Home</a></li>
+
+
+
+	
+		
+
+<li><a href="/resources">Resources</a></li>
+
+
+
+	
+		
+
+<li><a href="/stopwords">Stopwords</a></li>
+
+
+
+	
+		
+
+<li class="active">Russian</li>
+
+
+
+	
+	</ol>
+
+
+<!--/navbaef89499a8b28119bfd9ca560f55335 /nav crumbTrail-->
+</div>
+ 					
+</div>
+</div>
+
+<!-- toprows -->
+
+<!-- begin position 1 -->
+<div class="wg-content-position">
+
+    
+    
+    
+        
+    
+        
+        <div id="articleeb1fc1dc72b5fb478fa8c9fd59a976d1" class="panel panel-default">
+
+<a name="id6x-B3HK1_0ePqMn9Wal20Q" id="id6x-B3HK1_0ePqMn9Wal20Q"></a>
+
+
+
+
+<div class="panel-heading">
+	<h3 class="panel-title">Russian Stopwords</h3>
+</div>
+
+
+
+
+
+	<div class="panel-body">
+		<table style="width: 100%;" border="0" cellpadding="5" cellspacing="5">
+<tbody>
+<tr>
+<td style="width: 33%;" valign="top">а<br /> е<br /> и<br /> ж<br /> м<br /> о<br /> на<br /> не<br /> ни<br /> об<br /> но<br /> он<br /> мне<br /> мои<br /> мож<br /> она<br /> они<br /> оно<br /> мной<br /> много<br /> многочисленное<br /> многочисленная<br /> многочисленные<br /> многочисленный<br /> мною<br /> мой<br /> мог<br /> могут<br /> можно<br /> может<br /> можхо<br /> мор<br /> моя<br /> моё<br /> мочь<br /> над<br /> нее<br /> оба<br /> нам<br /> нем<br /> нами<br /> ними<br /> мимо<br /> немного<br /> одной<br /> одного<br /> менее<br /> однажды<br /> однако<br /> меня<br /> нему<br /> меньше<br /> ней<br /> наверху<br /> него<br /> ниже<br /> мало<br /> надо<br /> один<br /> одиннадцать<br /> одиннадцатый<br /> назад<br /> наиболее<br /> недавно<br /> миллионов<br /> недалеко<br /> между<br /> низко<br /> меля<br /> нельзя<br /> нибудь<br /> непрерывно<br /> наконец<br /> никогда<br /> никуда<br /> нас<br /> наш<br /> нет<br /> нею<br /> неё<br /> них<br /> мира<br /> наша<br /> наше<br /> наши<br /> ничего<br /> начала<br /> нередко<br /> несколько<br /> обычно<br /> опять<br /> около<br /> мы<br /> ну<br /> нх<br /> от<br /> отовсюду<br /> особенно<br /> нужно<br /> очень<br /> отсюда<br /> в<br /> во<br /> вон<br /> вниз<br /> внизу<br /> вокруг<br /> вот<br /> восемнадцать<br /> восемнадцатый<br /> восемь<br /> восьмой<br /> вверх<br /> вам<br /> вами<br /> важное<br /> важная<br /> важные<br /> важный<br /> вдали<br /> везде<br /> ведь<br /> вас<br /> ваш<br /> ваша<br /> ваше<br /> ваши<br /> впрочем<br /> весь<br /> вдруг<br /> вы<br /> все<br /> второй<br /> всем<br /> всеми<br /> времени<br /> время<br /> всему<br /> всего<br /> всегда<br /> всех<br /> всею<br /> всю<br /> вся<br /> всё<br /> всюду<br /> г</td>
+<td valign="top">год<br /> говорил<br /> говорит<br /> года<br /> году<br /> где<br /> да<br /> ее<br /> за<br /> из<br /> ли<br /> же<br /> им<br /> до<br /> по<br /> ими<br /> под<br /> иногда<br /> довольно<br /> именно<br /> долго<br /> позже<br /> более<br /> должно<br /> пожалуйста<br /> значит<br /> иметь<br /> больше<br /> пока<br /> ему<br /> имя<br /> пор<br /> пора<br /> потом<br /> потому<br /> после<br /> почему<br /> почти<br /> посреди<br /> ей<br /> два<br /> две<br /> двенадцать<br /> двенадцатый<br /> двадцать<br /> двадцатый<br /> двух<br /> его<br /> дел<br /> или<br /> без<br /> день<br /> занят<br /> занята<br /> занято<br /> заняты<br /> действительно<br /> давно<br /> девятнадцать<br /> девятнадцатый<br /> девять<br /> девятый<br /> даже<br /> алло<br /> жизнь<br /> далеко<br /> близко<br /> здесь<br /> дальше<br /> для<br /> лет<br /> зато<br /> даром<br /> первый<br /> перед<br /> затем<br /> зачем<br /> лишь<br /> десять<br /> десятый<br /> ею<br /> её<br /> их<br /> бы<br /> еще<br /> при<br /> был<br /> про<br /> процентов<br /> против<br /> просто<br /> бывает<br /> бывь<br /> если<br /> люди<br /> была<br /> были<br /> было<br /> будем<br /> будет<br /> будете<br /> будешь<br /> прекрасно<br /> буду<br /> будь<br /> будто<br /> будут<br /> ещё<br /> пятнадцать<br /> пятнадцатый<br /> друго<br /> другое<br /> другой<br /> другие<br /> другая<br /> других<br /> есть<br /> пять<br /> быть<br /> лучше<br /> пятый<br /> к<br /> ком<br /> конечно<br /> кому<br /> кого<br /> когда<br /> которой<br /> которого<br /> которая<br /> которые<br /> который<br /> которых<br /> кем<br /> каждое<br /> каждая<br /> каждые<br /> каждый<br /> кажется<br /> как<br /> какой<br /> какая<br /> кто<br /> кроме<br /> куда<br /> кругом<br /> с</td>
+<td style="width: 33%;" valign="top">т<br /> у<br /> я<br /> та<br /> те<br /> уж<br /> со<br /> то<br /> том<br /> снова<br /> тому<br /> совсем<br /> того<br /> тогда<br /> тоже<br /> собой<br /> тобой<br /> собою<br /> тобою<br /> сначала<br /> только<br /> уметь<br /> тот<br /> тою<br /> хорошо<br /> хотеть<br /> хочешь<br /> хоть<br /> хотя<br /> свое<br /> свои<br /> твой<br /> своей<br /> своего<br /> своих<br /> свою<br /> твоя<br /> твоё<br /> раз<br /> уже<br /> сам<br /> там<br /> тем<br /> чем<br /> сама<br /> сами<br /> теми<br /> само<br /> рано<br /> самом<br /> самому<br /> самой<br /> самого<br /> семнадцать<br /> семнадцатый<br /> самим<br /> самими<br /> самих<br /> саму<br /> семь<br /> чему<br /> раньше<br /> сейчас<br /> чего<br /> сегодня<br /> себе<br /> тебе<br /> сеаой<br /> человек<br /> разве<br /> теперь<br /> себя<br /> тебя<br /> седьмой<br /> спасибо<br /> слишком<br /> так<br /> такое<br /> такой<br /> такие<br /> также<br /> такая<br /> сих<br /> тех<br /> чаще<br /> четвертый<br /> через<br /> часто<br /> шестой<br /> шестнадцать<br /> шестнадцатый<br /> шесть<br /> четыре<br /> четырнадцать<br /> четырнадцатый<br /> сколько<br /> сказал<br /> сказала<br /> сказать<br /> ту<br /> ты<br /> три<br /> эта<br /> эти<br /> что<br /> это<br /> чтоб<br /> этом<br /> этому<br /> этой<br /> этого<br /> чтобы<br /> этот<br /> стал<br /> туда<br /> этим<br /> этими<br /> рядом<br /> тринадцать<br /> тринадцатый<br /> этих<br /> третий<br /> тут<br /> эту<br /> суть<br /> чуть<br /> тысяч</td>
+</tr>
+</tbody>
+</table>
+	
+	</div>
+
+
+
+
+
+
+
+<div class="wg-clear"></div>
+
+<!--/articleeb1fc1dc72b5fb478fa8c9fd59a976d1 /article default-->
+</div>
+
+    
+        
+    
+    
+    
+
+<!-- end position 1 -->  
+</div>
+
+<div class="wg-clear"></div>
+
+  
+
+<!--/layout27e32853e22012f47a2f812779a297c1 /layout default-->
+</div>
+
+
+</div>
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-49205764-1']);
+  _gaq.push(['_setAllowLinker', true]);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 968481985;
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/968481985/?value=0&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
+
+
+
+</div> <!-- end wrap -->
+
+<!-- footer -->
+
+
+    <div id="footer">
+      <div class="container">
+        <p class="text-muted">	<a href="javascript:history.go(-1)"><i class="fa fa-reply green" alt="Return to previous screen" title="Return to previous screen"></i> return to previous screen</a> | 
+	<a href="/info/privacy-policy">privacy policy</a> | 
+	<a href="/info/terms">terms of service</a> | 
+	&copy; ranks.nl &nbsp;
+	
+	</p>
+      </div>
+    </div>		  
+ 
+
+	<script src="/js/sharre/jquery.sharrre.min.js" type="text/javascript"></script>
+<script type="text/javascript">
+	
+			$('#socialbuttons').sharrre({
+			share: {
+			googlePlus: true,
+			facebook: true,
+			twitter: true
+			},
+			enableTracking: true,
+			enableHover: false,
+			enableCounter: true,
+			buttons: {     
+			googlePlus: {size: 'medium', annotation:'bubble'},     
+			facebook: {layout: 'button_count'},     
+			twitter: {count: 'horizontal'}   },
+			template: '<div class="box"><a class="count" href="#">{total}</a> <a class="share" href="#"> <div class="sharrre_social_icons"></div>' + $('#socialbuttons').data('title') + '</a></div>',		
+			click: function (a)   { if($('.buttons').length === 0){$('.share').html('');a.loadButtons(); }},
+			urlCurl: '/cgi-bin/sharre.cgi', 
+
+		});
+	
+</script>
+
+</body>
+</html>
